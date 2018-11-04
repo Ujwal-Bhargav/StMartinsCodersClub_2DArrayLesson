@@ -17,10 +17,24 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+int diffOfSum(int matrix[][])
+{
+	// Write your actual solution here..  Given, a square matrix  return absolute difference of sum of diagonals(left and right)
+
+
+
+
+}
+
+
 int main()
 {
     /*
     Allocate memory dynamically and do write code that works for all input(Different size 3,4,5....)
     */
+	
+	
+	int result = diffOfSum(matrix);
+	print("%d",result);
     return 0;
 }

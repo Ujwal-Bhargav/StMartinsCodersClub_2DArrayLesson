@@ -16,3 +16,14 @@ Assignment 1:
       Matrix of  0s & 1s ,return row's number with highest sum
       
       
+Assignment 2:
+      
+      For a square matrix, return Absolute difference of left and right diagonals sum.
+      
+
+Assignment 3:
+
+      For a matrix, return its transpose
+
+      
+      

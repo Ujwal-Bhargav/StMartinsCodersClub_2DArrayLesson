@@ -22,10 +22,17 @@
 
 #include<stdio.h>
 #include<stdlib.h>
+void transpose(int *,int ,int );
 int main()
 {
 /*
 Allocate memory dynamically
 */
+ int Matrix[][3]={1,2,3,4,5,6,7,8,9},row=3,column=3;//Make sure your code accepts matrix of different dimensions
+ transpose(Matrix,row,column);
 return 0;
+}
+void transpose(int *Arr,int row,int col)
+{
+    //Get Transpose
 }

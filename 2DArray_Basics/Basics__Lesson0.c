@@ -22,6 +22,14 @@ int main()
 
     }
     
+   int j,arr[3][3]={1,2,3,4,5,6,7,8,9},r=3,c=3;
+   for(i=0;i<r;i++)
+   {
+	for(j=0;j<c;j++)
+	{
+	// Print value n address of each element in array and understand how memory is being allocated	
+	}
+   }
     return 0;
 
 }
